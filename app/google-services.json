@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489636620767",
+    "firebase_url": "https://crashreport-edb51.firebaseio.com",
+    "project_id": "crashreport-edb51",
+    "storage_bucket": "crashreport-edb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489636620767:android:f5a7184023ab45d37f7c6a",
+        "android_client_info": {
+          "package_name": "com.andrew.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489636620767-lmt30fa1b3g15vn0d94drcsc9cpvf5f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrew.myapplication",
+            "certificate_hash": "a4cadf868a0b7a460b044ded824a8fa1199f69d9"
+          }
+        },
+        {
+          "client_id": "489636620767-8n8j8gf0afthigl0jsunpi8ihsrlmd2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf3HhVOiKviJCIFGMcejFtQobzbvYF-qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489636620767-8n8j8gf0afthigl0jsunpi8ihsrlmd2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
